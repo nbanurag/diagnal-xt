@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdiagnal_xt=self.webpackChunkdiagnal_xt||[]).push([[121],{121:function(e,n,a){a.r(n);a(791);var i=a(184);n.default=function(){return(0,i.jsx)("a",{className:"App-link underline",href:"/movies?type=romantic-comedy",children:"Romantic Comedy"})}}}]);
+//# sourceMappingURL=121.a2fb4c74.chunk.js.map
